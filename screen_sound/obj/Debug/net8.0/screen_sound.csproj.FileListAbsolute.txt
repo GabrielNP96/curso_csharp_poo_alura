@@ -1,0 +1,15 @@
+/workspaces/curso_csharp_poo_alura/screen_sound/bin/Debug/net8.0/screen_sound
+/workspaces/curso_csharp_poo_alura/screen_sound/bin/Debug/net8.0/screen_sound.deps.json
+/workspaces/curso_csharp_poo_alura/screen_sound/bin/Debug/net8.0/screen_sound.runtimeconfig.json
+/workspaces/curso_csharp_poo_alura/screen_sound/bin/Debug/net8.0/screen_sound.dll
+/workspaces/curso_csharp_poo_alura/screen_sound/bin/Debug/net8.0/screen_sound.pdb
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.AssemblyInfoInputs.cache
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.AssemblyInfo.cs
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.csproj.CoreCompileInputs.cache
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.sourcelink.json
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.dll
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/refint/screen_sound.dll
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.pdb
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/screen_sound.genruntimeconfig.cache
+/workspaces/curso_csharp_poo_alura/screen_sound/obj/Debug/net8.0/ref/screen_sound.dll
