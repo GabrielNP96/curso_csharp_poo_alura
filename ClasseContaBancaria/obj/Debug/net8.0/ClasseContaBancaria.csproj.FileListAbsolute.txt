@@ -1,0 +1,15 @@
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/bin/Debug/net8.0/ClasseContaBancaria
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/bin/Debug/net8.0/ClasseContaBancaria.deps.json
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/bin/Debug/net8.0/ClasseContaBancaria.runtimeconfig.json
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/bin/Debug/net8.0/ClasseContaBancaria.dll
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/bin/Debug/net8.0/ClasseContaBancaria.pdb
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.AssemblyInfoInputs.cache
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.AssemblyInfo.cs
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.csproj.CoreCompileInputs.cache
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.sourcelink.json
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.dll
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/refint/ClasseContaBancaria.dll
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.pdb
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ClasseContaBancaria.genruntimeconfig.cache
+/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/Debug/net8.0/ref/ClasseContaBancaria.dll
