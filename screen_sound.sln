@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screen_sound", "screen_soun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseContaBancaria", "ClasseContaBancaria\ClasseContaBancaria.csproj", "{F146992B-AA66-4EE5-BDB0-69943E65A1DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseCarro", "ClasseCarro\ClasseCarro.csproj", "{5631434B-DA81-43BD-A998-E1A6929B9F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseProduto", "ClasseProduto\ClasseProduto.csproj", "{1592012A-F06F-4FBA-A604-A8BB43351967}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{F146992B-AA66-4EE5-BDB0-69943E65A1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F146992B-AA66-4EE5-BDB0-69943E65A1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F146992B-AA66-4EE5-BDB0-69943E65A1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5631434B-DA81-43BD-A998-E1A6929B9F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5631434B-DA81-43BD-A998-E1A6929B9F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5631434B-DA81-43BD-A998-E1A6929B9F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5631434B-DA81-43BD-A998-E1A6929B9F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1592012A-F06F-4FBA-A604-A8BB43351967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1592012A-F06F-4FBA-A604-A8BB43351967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1592012A-F06F-4FBA-A604-A8BB43351967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1592012A-F06F-4FBA-A604-A8BB43351967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
