@@ -9,7 +9,12 @@ Musica musica2 = new Musica();
 musica2.Nome = "Bohemian Rhapsody";
 musica2.Duracao = 254;
 
+
 albumDoQueen.AdicionarMusica(musica1);
 albumDoQueen.AdicionarMusica(musica2);
 
-albumDoQueen.ExibirMusicasDoAlbum();
+Banda queen = new Banda();
+queen.Nome = "Queen";
+queen.AdicionarAlbum(albumDoQueen);
+
+queen.ExibirDiscografia();
