@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj": {}
+    "/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj": {}
   },
   "projects": {
-    "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj": {
+    "/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj",
+        "projectUniqueName": "/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj",
         "projectName": "ClasseContaBancaria",
-        "projectPath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj",
-        "packagesPath": "/home/gabrielrenata/.nuget/packages/",
-        "outputPath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseContaBancaria/obj/",
+        "projectPath": "/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gabrielrenata/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -13,8 +13,8 @@ musica2.Duracao = 254;
 albumDoQueen.AdicionarMusica(musica1);
 albumDoQueen.AdicionarMusica(musica2);
 
-Banda queen = new Banda();
-queen.Nome = "Queen";
+Banda queen = new Banda("Queen");
+queen.Nome = "Weriu";
 queen.AdicionarAlbum(albumDoQueen);
 
 queen.ExibirDiscografia();

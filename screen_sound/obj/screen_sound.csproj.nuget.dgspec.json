@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/screen_sound/screen_sound.csproj": {}
+    "/workspaces/curso_csharp_poo_alura/screen_sound/screen_sound.csproj": {}
   },
   "projects": {
-    "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/screen_sound/screen_sound.csproj": {
+    "/workspaces/curso_csharp_poo_alura/screen_sound/screen_sound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/screen_sound/screen_sound.csproj",
+        "projectUniqueName": "/workspaces/curso_csharp_poo_alura/screen_sound/screen_sound.csproj",
         "projectName": "screen_sound",
-        "projectPath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/screen_sound/screen_sound.csproj",
-        "packagesPath": "/home/gabrielrenata/.nuget/packages/",
-        "outputPath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/screen_sound/obj/",
+        "projectPath": "/workspaces/curso_csharp_poo_alura/screen_sound/screen_sound.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/curso_csharp_poo_alura/screen_sound/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gabrielrenata/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

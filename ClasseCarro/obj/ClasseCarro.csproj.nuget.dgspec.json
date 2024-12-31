@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj": {}
+    "/workspaces/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj": {}
   },
   "projects": {
-    "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj": {
+    "/workspaces/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj",
+        "projectUniqueName": "/workspaces/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj",
         "projectName": "ClasseCarro",
-        "projectPath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj",
-        "packagesPath": "/home/gabrielrenata/.nuget/packages/",
-        "outputPath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseCarro/obj/",
+        "projectPath": "/workspaces/curso_csharp_poo_alura/ClasseCarro/ClasseCarro.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/curso_csharp_poo_alura/ClasseCarro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gabrielrenata/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

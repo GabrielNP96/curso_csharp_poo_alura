@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x6qsk+So/QE=",
+  "dgSpecHash": "F/SXL0ylutE=",
   "success": true,
-  "projectFilePath": "/home/gabrielrenata/Documentos/Alura/C#/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj",
+  "projectFilePath": "/workspaces/curso_csharp_poo_alura/ClasseContaBancaria/ClasseContaBancaria.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
